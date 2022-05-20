@@ -22,18 +22,19 @@
 ## 👨‍💻 Languages
 
 <p>
-     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3AR"><img alt="R" src="https://www.r-project.org/logo/Rlogo.svg"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python"  src="https://img.icons8.com/fluency/100/000000/python.png"></a>
+  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3AR"><img alt="R" src="https://img.icons8.com/external-becris-flat-becris/100/000000/external-r-data-science-becris-flat-becris.png"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.icons8.com/ios-filled/100/000000/sql.png"></a>
    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Axpath"><img alt="XPATH" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
    
    
 ## 🧰 Frameworks and Libraries
 
 <p>
   
-  <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
+  <a href="#"><img alt="NumPy" src="https://img.icons8.com/color/48/000000/gmail-new.png"></a>
    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
   <a href="#"><img alt="Anaconda" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"></a>
@@ -63,13 +64,13 @@
  
 <!-- Connect with me--social media profiles -->
 
-## 💞️ Please feel free to Connect with me 💞️
+##  Please feel free to Connect with me
 <p align="center">
   
   <a href="fensalsdx@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/femi-aleyemi-50880968/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/fensals" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
-  <a href="https://instagram.com/fensals" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://www.linkedin.com/in/femi-aleyemi-50880968/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/fensals" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="Twitter"/></a>
+  <a href="https://instagram.com/fensals" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram"/></a>
 	
 </p>
   
