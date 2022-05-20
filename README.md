@@ -3,28 +3,24 @@
 <div id="top"></div>
 
 
-<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="100"/> <h1 align="left"> Hi, Welcome to my profile!!! </h1> 
+<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="100"/> <h2 align="left"> Hi, Welcome to my profile!!! </h2> 
  
    
 ##  
 
 
 - 👨‍💼: My name is **Femi** <img src="https://s3.us-east-2.amazonaws.com/fi-uploads/posts/44299297_s.jpg" width="250" align="right"/>
-
 - 👨‍💻: I am a Data Analytics Professional, Python Developer and a Finance Enthusiast.
- 
 - 👌: I am Passionate about extracting actionable insights from **Data** and making useful predictions.
- 
 - 📚: I have a degree in Engineering and an MBA in Finance and Investment.
- 
 - 🤟: I love music, food, football,  and asking a lot of questions.
 
 
-  
 
 <!-- programming and other languages -->
 
-## 👨‍💻 *Languages I "speak"*...
+##
+### 👨‍💻 Languages I "speak"...
 
 <p>
 <a href="#"><img alt="Python" src="https://img.icons8.com/fluency/50/000000/python.png"></a>
@@ -35,8 +31,8 @@
 
  
 
-
-## 🛠️🧰 *Some of my favourite Tools*...
+##
+### 🛠️🧰 Some of my favourite Tools...
 	
 <p>
     <a href="#"><img alt="PowerBI" src="https://img.icons8.com/color/50/000000/power-bi.png"></a>
