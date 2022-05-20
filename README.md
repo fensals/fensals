@@ -9,16 +9,13 @@
 
 👨‍💻 Languages
 
-[Python] - (https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython) 
-R - https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3AR
-SQL - https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql
-
+Python - R - SQL
 
 🧰 Frameworks and Libraries
 
 NumPy Pandas TensorFlow Anaconda Matplotlib Scikitlearn Seaborn Tidyverse dplyr BeautifulSoup Scrapy
 
-
+https://github.com/Ajisco#-languages
 
 💻 Software and Tools
 
