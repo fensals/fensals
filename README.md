@@ -9,11 +9,11 @@
 ##  
 
 
-- 👨‍💼: My name is **Femi** <img src="https://s3.us-east-2.amazonaws.com/fi-uploads/posts/44299297_s.jpg" width="300" align="right"/>
+- 👨‍💼: My name is **Femi** <img src="https://s3.us-east-2.amazonaws.com/fi-uploads/posts/44299297_s.jpg" width="250" align="right"/>
 
 - 👨‍💻: I am a Data Analytics Professional, Python Developer and a Finance Enthusiast.
  
-- 👌: I amvPassionate about extracting actionable insights from **Data** and making useful predictions.
+- 👌: I am Passionate about extracting actionable insights from **Data** and making useful predictions.
  
 - 📚: I have a degree in Engineering and an MBA in Finance and Investment.
  
@@ -24,7 +24,7 @@
 
 <!-- programming and other languages -->
 
-## 👨‍💻 Languages I *"speak"*...
+## 👨‍💻 *Languages I "speak"*...
 
 <p>
 <a href="#"><img alt="Python" src="https://img.icons8.com/fluency/50/000000/python.png"></a>
@@ -34,24 +34,10 @@
 <a href="#"><img alt="HTML" src="https://img.icons8.com/color/50/000000/html-5--v1.png"></a>
 
  
+
+
+## 🛠️🧰 *Some of my favourite Tools*...
 	
-## 🧰 Frameworks and Libraries I like to use... 
-<p>
-  
-  <a href="#"><img alt="NumPy" src="https://img.icons8.com/fluency/50/000000/visual-studio.png"></a>
-  <a href="#"><img alt="Pandas" src="https://img.icons8.com/fluency/50/000000/visual-studio.png"></a>
-  <a href="#"><img alt="TensorFlow" src="https://img.icons8.com/color/50/000000/tensorflow.png"></a>
-  <a href="#"><img alt="Anaconda" src="https://img.icons8.com/fluency/50/000000/anaconda--v2.png"></a>
-  <a href="#"><img alt="Matplotlib" src="https://img.icons8.com/fluency/50/000000/visual-studio.png"></a>
-  <a href="#"><img alt="Tidyverse" src="https://img.icons8.com/fluency/50/000000/visual-studio.png"></a>
-  <a href="#"><img alt="Dplyr" src="https://img.icons8.com/fluency/50/000000/visual-studio.png"></a>
-  
-   
-</p>
-
-
-<!-- Softwares -->
-## 💻🛠️ Some of my favourite Softwares and Tools
 <p>
     <a href="#"><img alt="PowerBI" src="https://img.icons8.com/color/50/000000/power-bi.png"></a>
     <a href="#"><img alt="Tableau" src="https://img.icons8.com/color/50/000000/tableau-software.png"></a>
@@ -63,13 +49,15 @@
     <a href="#"><img alt="Jupyter Notebook" src="https://img.icons8.com/fluency/50/000000/jupyter.png"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.icons8.com/color/50/000000/stackoverflow.png"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.icons8.com/fluency/50/000000/visual-studio.png"></a>
+    <a href="#"><img alt="TensorFlow" src="https://img.icons8.com/color/50/000000/tensorflow.png"></a>
+    <a href="#"><img alt="Anaconda" src="https://img.icons8.com/fluency/50/000000/anaconda--v2.png"></a>
 </p>
 
  
  
 <!-- Connect with me--social media profiles -->
 
-#### :: Please feel free to Connect with me
+#### 🤙: Let's connect...
 	   
 <p>
   <a href="fensalsdx@gmail.com" target="_blank"><img src="https://img.icons8.com/color/30/000000/gmail.png" alt="Gmail"/></a>
