@@ -15,7 +15,7 @@ Python - R - SQL
 
 NumPy Pandas TensorFlow Anaconda Matplotlib Scikitlearn Seaborn Tidyverse dplyr BeautifulSoup Scrapy
 
-https://github.com/Ajisco#-languages
+
 
 💻 Software and Tools
 
