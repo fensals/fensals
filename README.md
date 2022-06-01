@@ -9,7 +9,7 @@
 ##  
 
 
-- 👨‍💼: My name is **Femi** <img src="https://s3.us-east-2.amazonaws.com/fi-uploads/posts/44299297_s.jpg" width="250" align="right"/>
+- 👨‍💼: My name is **Femi** 
 - 👨‍💻: I am a Data Analytics Professional, Python Developer and a Finance Enthusiast.
 - 👌: I am Passionate about extracting actionable insights from **Data** and making useful predictions.
 - 📚: I have a degree in Engineering and an MBA in Finance and Investment.
@@ -32,7 +32,7 @@
  
 
 ##
-### 🛠️🧰 Some of my favourite Tools...
+### 🛠️ Some of my favourite Tools...
 	
 <p>
     <a href="#"><img alt="PowerBI" src="https://img.icons8.com/color/50/000000/power-bi.png"></a>
