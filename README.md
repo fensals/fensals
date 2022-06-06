@@ -3,7 +3,7 @@
 <div id="top"></div>
 
 
-<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="100"/> <h2 align="left"> Hi, Welcome to my profile!!! </h2> 
+<h1. Hi, Welcome to my profile!!! </h2> 
  
    
 ##  
@@ -49,7 +49,14 @@
     <a href="#"><img alt="Anaconda" src="https://img.icons8.com/fluency/50/000000/anaconda--v2.png"></a>
 </p>
 
- 
+ ### 🖥️ My Projects
+<!-- table -->
+<!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
+| Year | Title                                    | Technologies                           |
+|------|------------------------------------------|----------------------------------------|
+| 2022 | [Breast Tumor prediction EDA](https://bit.ly/BreastTumor) | ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas) ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy) ![Matplotlib](https://img.shields.io/badge/-Sklearn-black?style=flat-square&logo=matplotlib) ![Scikit-Learn](https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=scikitlearn)|
+| 2022 | [Predicting Energy Efficiency of Buildings](https://bit.ly/ajiEnergyEfficiency) |  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas) ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy) ![Matplotlib](https://img.shields.io/badge/-Sklearn-black?style=flat-square&logo=matplotlib) ![Scikit-Learn](https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=scikitlearn)|
+
  
 <!-- Connect with me--social media profiles -->
 
