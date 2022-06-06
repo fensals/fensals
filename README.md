@@ -3,11 +3,11 @@
 <div id="top"></div>
 
 
-<h1. Hi, Welcome to my profile!!! </h2> 
+<h1> Hi, Welcome to my profile!!! </h1> 
  
    
 ##  
-
+--------------------
 
 - 👨‍💼: My name is **Femi** 
 - 👨‍💻: I am a Data Analytics Professional, Python Developer and a Finance Enthusiast.
@@ -18,7 +18,7 @@
 
 
 <!-- programming and other languages -->
-
+---------------------------
 ##
 ### 👨‍💻 Languages I "speak"...
 
@@ -29,7 +29,7 @@
 <a href="#"><img alt="CSS" src="https://img.icons8.com/color/50/000000/css3.png"></a>  
 <a href="#"><img alt="HTML" src="https://img.icons8.com/color/50/000000/html-5--v1.png"></a>
 
- 
+---------
 
 ##
 ### 🛠️ Some of my favourite Tools...
@@ -49,16 +49,19 @@
     <a href="#"><img alt="Anaconda" src="https://img.icons8.com/fluency/50/000000/anaconda--v2.png"></a>
 </p>
 
+
  ### 🖥️ My Projects
 <!-- table -->
 <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
-| Year | Title                                    | Technologies                           |
+| Date | Title                                    | Tools Used                           |
 |------|------------------------------------------|----------------------------------------|
-| 2022 | [Breast Tumor prediction EDA](https://bit.ly/BreastTumor) | ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas) ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy) ![Matplotlib](https://img.shields.io/badge/-Sklearn-black?style=flat-square&logo=matplotlib) ![Scikit-Learn](https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=scikitlearn)|
-| 2022 | [Predicting Energy Efficiency of Buildings](https://bit.ly/ajiEnergyEfficiency) |  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas) ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy) ![Matplotlib](https://img.shields.io/badge/-Sklearn-black?style=flat-square&logo=matplotlib) ![Scikit-Learn](https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=scikitlearn)|
+| Aug. 2021 | [Udemy Course Revenue Data Analysis](https://github.com/fensals/Udemy-Course-Revenue-Analysis) | MS-Excel and Tableau |
+| Apr. 2022 | [Clustering of Countries based on Socio-Economic Factors](https://github.com/fensals/Unsupervised_Learning)| ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas) ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy) ![Matplotlib](https://img.shields.io/badge/-Sklearn-black?style=flat-square&logo=matplotlib) ![Scikit-Learn](https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=scikitlearn)|
 
  
 <!-- Connect with me--social media profiles -->
+
+--------------
 
 #### 🤙: Let's connect...
 	   
