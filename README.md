@@ -55,7 +55,7 @@
 <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 | Date | Title                                    | Tools Used                           |
 |------|------------------------------------------|----------------------------------------|
-| Aug. 2021 | [Udemy Course Revenue Data Analysis](https://github.com/fensals/Udemy-Course-Revenue-Analysis) | MS-Excel and Tableau |
+| Aug. 2021 | [Udemy Course Revenue Data Analysis](https://github.com/fensals/Udemy-Course-Revenue-Analysis) |![MS-Excel](https://img.shields.io/badge/-Microsoft%20Excel-green) ![Tableau](https://img.shields.io/badge/-Tableau-lightgrey) |
 | Apr. 2022 | [Clustering of Countries based on Socio-Economic Factors](https://github.com/fensals/Unsupervised_Learning)| ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas) ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy) ![Matplotlib](https://img.shields.io/badge/-Sklearn-black?style=flat-square&logo=matplotlib) ![Scikit-Learn](https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=scikitlearn)|
 
  
