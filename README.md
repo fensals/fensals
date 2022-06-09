@@ -14,7 +14,7 @@
 - 👌: I am Passionate about extracting actionable insights from **Data** and making useful predictions.
 - 📚: I have a degree in Engineering and an MBA in Finance and Investment.
 - 🤟: I love music, food, football,  and asking a lot of questions.
-- 🔗: https://linktr.ee/fensals 
+
 
 
 
