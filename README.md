@@ -14,6 +14,7 @@
 - 👌: I am Passionate about extracting actionable insights from **Data** and making useful predictions.
 - 📚: I have a degree in Engineering and an MBA in Finance and Investment.
 - 🤟: I love music, food, football,  and asking a lot of questions.
+- 🔗: https://linktr.ee/fensals 
 
 
 
@@ -53,10 +54,12 @@
  ### 🖥️ My Projects
 <!-- table -->
 <!-- https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
-| Date | Title                                    | Tools Used                           |
+| Date | Title                                    | Tools / Packages Used                           |
 |------|------------------------------------------|----------------------------------------|
-| Aug. 2021 | [Udemy Course Revenue Data Analysis](https://github.com/fensals/Udemy-Course-Revenue-Analysis) |![MS-Excel](https://img.shields.io/badge/-Microsoft%20Excel-green) ![Tableau](https://img.shields.io/badge/-Tableau-lightgrey) |
-| Apr. 2022 | [Clustering of Countries based on Socio-Economic Factors](https://github.com/fensals/Unsupervised_Learning)| ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas) ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy) ![Matplotlib](https://img.shields.io/badge/-Sklearn-black?style=flat-square&logo=matplotlib) ![Scikit-Learn](https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=scikitlearn)|
+| 2021 | [Udemy Course Revenue Data Analysis](https://github.com/fensals/Udemy-Course-Revenue-Analysis) |![MS-Excel](https://img.shields.io/badge/-Microsoft%20Excel-green) ![Tableau](https://img.shields.io/badge/-Tableau-lightgrey) |
+| 2021 | [Web Extraction/Web Scraping Projects](https://github.com/fensals/Web_Scraping_Projects) | ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![R](https://img.shields.io/badge/-R-blue) ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas) ![R-vest](https://img.shields.io/badge/-R--Vest-blue) ![Beautiful-Soup](https://img.shields.io/badge/-Beautiful--Soup-orange)|
+| 2021 | [Sentiment Analysis - Company Reviews](https://github.com/fensals/Company-Review-Sentiment-Analysis)| ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas) ![WordCloud](https://img.shields.io/badge/-WordCloud-lightgrey) ![VaderSentiment](https://img.shields.io/badge/-Vader--Sentiment-blue) ![](https://img.shields.io/badge/-matplotlib-lightgrey) |
+| 2022 | [Clustering of Countries based on Socio-Economic Factors](https://github.com/fensals/Unsupervised_Learning)| ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas) ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy) ![Matplotlib](https://img.shields.io/badge/-Sklearn-black?style=flat-square&logo=matplotlib) ![Scikit-Learn](https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=scikitlearn)|
 
  
 <!-- Connect with me--social media profiles -->
