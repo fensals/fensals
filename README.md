@@ -10,7 +10,7 @@
 --------------------
 
 - 👨‍💼: My name is **Femi** 
-- 👨‍💻: I am a Data Analytics Professional, Python Developer and a Finance Enthusiast.
+- 👨‍💻: I am a Data Analyts/ Data Engineer.
 - 👌: I am Passionate about extracting actionable insights from **Data** and making useful predictions.
 - 📚: I have a degree in Engineering and an MBA in Finance and Investment.
 - 🤟: I love music, food, football,  and asking a lot of questions.
