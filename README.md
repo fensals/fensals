@@ -10,10 +10,10 @@
 --------------------
 
 - 👨‍💼: My name is **Femi** 
-- 👨‍💻: I am a Data Analyst/ Data Engineer.
+- 👨‍💻: I am a Data Engineer and Data Analyst.
 - 👌: I am Passionate about extracting actionable insights from **Data** and making useful predictions.
 - 📚: I have a degree in Engineering and an MBA in Finance and Investment.
-- 🤟: I love music, food, football,  and asking a lot of questions.
+- 🤟: I love music, food, football,  and asking many questions.
 
 
 
@@ -33,20 +33,17 @@
 ---------
 
 ##
-### 🛠️ Some of my favourite Tools...
+### 🛠️ Some of my favorite Tools...
 	
 <p>
     <a href="#"><img alt="PowerBI" src="https://img.icons8.com/color/50/000000/power-bi.png"></a>
     <a href="#"><img alt="Tableau" src="https://img.icons8.com/color/50/000000/tableau-software.png"></a>
-    <a href="#"><img alt="PyCharm" src="https://img.icons8.com/color/50/000000/pycharm.png"></a>
     <a href="#"><img alt="MS Excel" src="https://img.icons8.com/color/50/000000/ms-excel.png"></a>
     <a href="#"><img alt="SQL server" src="https://img.icons8.com/color/50/000000/microsoft-sql-server.png"></a>
     <a href="#"><img alt="PostGres" src="https://img.icons8.com/color/50/000000/postgreesql.png"></a>
     <a href="#"><img alt="MySQL" src="https://img.icons8.com/fluency/50/000000/mysql-logo.png"></a>
     <a href="#"><img alt="Jupyter Notebook" src="https://img.icons8.com/fluency/50/000000/jupyter.png"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.icons8.com/color/50/000000/stackoverflow.png"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.icons8.com/fluency/50/000000/visual-studio.png"></a>
-    <a href="#"><img alt="TensorFlow" src="https://img.icons8.com/color/50/000000/tensorflow.png"></a>
     <a href="#"><img alt="Anaconda" src="https://img.icons8.com/fluency/50/000000/anaconda--v2.png"></a>
 </p>
 
