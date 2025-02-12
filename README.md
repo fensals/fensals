@@ -28,10 +28,10 @@
     <a href="#"><img alt="PowerBI" src="https://img.icons8.com/color/50/000000/power-bi.png"></a>
     <a href="#"><img alt="Tableau" src="https://img.icons8.com/color/50/000000/tableau-software.png"></a>
     <a href="#"><img alt="MS Excel" src="https://img.icons8.com/color/50/000000/ms-excel.png"></a>
-    <a href="#"><img alt="Microsoft Azure" src="https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000"></a>
-    <a href="#"><img alt="GCP" src="https://img.icons8.com/?size=100&id=fpGM2cINbbu4&format=png&color=000000"></a>
-    <a href="#"><img alt="Terraform" src="https://img.icons8.com/?size=100&id=kEkT1u7zTDk5&format=png&color=000000"></a>
-    <a href="#"><img alt="Linux" src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000"></a>
+    <a href="#"><img alt="Microsoft Azure" src="https://img.icons8.com/?size=50&id=VLKafOkk3sBX&format=png&color=000000"></a>
+    <a href="#"><img alt="GCP" src="https://img.icons8.com/?size=50&id=fpGM2cINbbu4&format=png&color=000000"></a>
+    <a href="#"><img alt="Terraform" src="https://img.icons8.com/?size=50&id=kEkT1u7zTDk5&format=png&color=000000"></a>
+    <a href="#"><img alt="Linux" src="https://img.icons8.com/?size=50&id=17842&format=png&color=000000"></a>
     <a href="#"><img alt="Jupyter Notebook" src="https://img.icons8.com/fluency/50/000000/jupyter.png"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.icons8.com/fluency/50/000000/visual-studio.png"></a>
     <a href="#"><img alt="Anaconda" src="https://img.icons8.com/fluency/50/000000/anaconda--v2.png"></a>
